@@ -9,3 +9,4 @@ Usage:
 
       Keystore password can be defined through CCNX_KEYSTORE_PASSWORD environment variable,
       if not explicitly defined, the default CCNx keystore password will be used
+
